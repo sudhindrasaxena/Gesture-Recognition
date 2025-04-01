@@ -1,5 +1,5 @@
 Neural Networks Project - Gesture Recognition for Smart TVs
-Presented by: Shantnu kumar Singh and Sharan Abhishek
+Presented by: Sudhindra Kumar Saxena & Sanjay Kumar Barnwal
 
 Problem Statement
 As a data scientist at a home electronics company specializing in advanced smart televisions, the objective is to develop a feature enabling the recognition of five distinct gestures performed by users. This feature aims to facilitate TV control without the need for a remote. The gestures, which include thumbs up, thumbs down, left swipe, right swipe, and stop, correspond to specific commands such as volume adjustment, playback control, and skipping within a video.
